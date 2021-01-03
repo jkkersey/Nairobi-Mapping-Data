@@ -1,4 +1,4 @@
-# Nairobi-Mapping-Data
+# Nairobi-Mombasa-Mapping-Data
 
 The dataset was created by Ron Mahabir, Peggy Agouris, Anthony Stefanidis, Arie Croitoru, and Andrew T. Crooks. Their 2018 study, "Detecting and mapping slums using open data: a case study in Kenya" is available at https://www.tandfonline.com/doi/figure/10.1080/17538947.2018.1554010?scroll=top&needAccess=true.
 
